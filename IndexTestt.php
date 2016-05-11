@@ -7,7 +7,10 @@
 	<meta http-equiv="Content-Language" content="sv" />
 	<meta name="language" content="sv" />
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> branch 'master' of https://github.com/starmangk/StarmanRepository.git
 	<meta name="description" content="Information, resurser och verktyg för enslikda användare samt föreningar och andra organisationer.
 		Organisationer kan hantera medlemmar, medlemsregister, kurser, anmälningar, betalningar, bokföring, e-postlistor, massutskick och mycket mer." />
 	<meta name="keywords" content="dans, dansforum, nytt, nyheter, kalender, medlemmar, medlemsregister, administration, anmälan, webbanmälan" />
